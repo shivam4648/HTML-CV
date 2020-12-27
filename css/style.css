@@ -10,3 +10,11 @@ body{
     border-color: grey;
     width: 10%;
   }
+h1{
+    font-family: sans-serif;
+    color: chocolate;
+}
+h3{
+    font-family: cursive;
+    color: crimson;
+}
